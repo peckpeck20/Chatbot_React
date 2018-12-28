@@ -1,5 +1,7 @@
 # Health care chat-bot
 
+## Created in Digia's hackathon challange 2018
+
 ### Features :white_check_mark:
 
 - answer FAQ's about health & medical services

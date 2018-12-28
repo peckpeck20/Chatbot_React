@@ -1,50 +1,60 @@
-## Health care chat-bot
-## Making this kind of stuff is fun
+# Health care chat-bot
 
-## On-going   Author : YI ZHUANG (lead developer)  Jose
+### Features :white_check_mark:
+
+- answer FAQ's about health & medical services
+- user registration
+- google login
+- user can user voice recognition instead of typing
+- leave a message to the doctor or nurse
+- book an appointment 
+- receive general health guidance
+
+
+### Available list of commands
+#### These don't have to be exact as the AI will try to recognize what you're trying to say
+
+- I am not feeling well
+- I would like to talk to a doctor
+- I would like to book an appointment  (use credit card number 4242424242424242 to pay)
+
+
 
 ## Demo
 
-Demo is [here](https://health-care-chat-bot.herokuapp.com)
+https://health-care-chat-bot.herokuapp.com
 
-``
-After you log in, and update your information, and start talking to the chatbot
-``
-## You can use the voice recognition  instead of typing.
 
-## Available list of commands  (doesn't have to be the exact same sentence,  if it doesn't give you what you want, retype the sentence again cause the bot is still at training process)
-``
-1. I would like to book an appointment  (using credit card number 4242424242424242 to pay)
-``
-``
-2. I would like to talk to a docotor
-``
-``
-3. See a list of commands
-``
-4. I am not feeling well
-``
-``
-5. Or just type anything you want and see what happen
-``
+## Getting Started
 
-### Installation process  
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-``
-Use your own config. (sensitive stuff). check the config folder
-``
 
-``
-1.  npm install  both in the root folder and the client folder
-``
+### Installing
 
-``
-2. (if you have concurrently install globally) npm run dev   in the root folder
-``
+Want to run this project in your own enviroment ?
 
-``
-(if not have concurrently install globally)
-npm run server in the root folder.
+```
+git clone https://github.com/peckpeck20/Chatbot_React.git
+```
 
-npm start in the client folder
-``
+```
+Replace values in config folder with your own instance keys,etc.
+```
+
+```
+yarn install OR npm install in Root & Client folder
+```
+
+```
+yarn start OR npm start in both folders
+
+TIP!
+
+(if you have concurrently install globally) npm run dev in the root folder
+```
+
+## Authors : Jose Zapata & Yi Zhuang  
+
+
+

@@ -2,7 +2,7 @@
 
 ## Created at Digia's hackathon challenge 2018
 
-Learn more about the challenge [here](https://github.com/peckpeck20/hackathons/blob/master/DigiaHackathon.pdf) 
+Learn more about the challenge [here](https://github.com/peckpeck20/hackathons/raw/master/DigiaHackathon.pdf) 
 
 ### Features :white_check_mark:
 

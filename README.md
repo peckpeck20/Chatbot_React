@@ -17,6 +17,9 @@
 #### These don't have to be exact as the AI will try to recognize what you're trying to say
 
 - I am not feeling well
+- My tooth hurts
+- How do I know if I have a fever
+- I think I have a fever
 - I would like to talk to a doctor
 - I would like to book an appointment  (use credit card number 4242424242424242 to pay)
 

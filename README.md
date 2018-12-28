@@ -1,6 +1,8 @@
 # Health care chat-bot
 
-## Created in Digia's hackathon challange 2018
+## Created at Digia's hackathon challenge 2018
+
+Learn more about the challenge [here](https://github.com/peckpeck20/hackathons/blob/master/DigiaHackathon.pdf) 
 
 ### Features :white_check_mark:
 

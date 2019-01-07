@@ -61,7 +61,12 @@ TIP!
 (if you have concurrently install globally) npm run dev in the root folder
 ```
 
-## Authors : Jose Zapata & Yi Zhuang  
+## Authors
+- Jose Zapata
+- Yi Zhuang  
+- Laura-Sofia
+- Jussi Steenari
+- Matti valiaho
 
 
 
